@@ -23,11 +23,11 @@ https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windo
 
 ### Installing
 
-Once you have your your pip installed and the virtualenv running you can go ahead and just execute the folloing command:
+Once you have your your pip installed and the virtualenv running you can go ahead and just execute the following command:
 
 ```pip install -r requirements.txt```
 
-ALso you need to install the frontend packages: 
+Also you need to install the frontend packages: 
 
 navigate to:
 
