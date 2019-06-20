@@ -58,8 +58,8 @@ and then run the following command:
 
 ## Built With
 
-* [Django](https://www.djangoproject.com/) - The web framework used
-* [React](https://reactjs.org/) - Dependency Management
+* [Django](https://www.djangoproject.com/)
+* [React](https://reactjs.org/)
 
 
 
