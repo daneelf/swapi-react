@@ -1,6 +1,7 @@
 # Swapi-react
 
-This is my first attempt to interact with React. 
+This is my first attempt to interact with React.
+I fetch the list of Star Wars movies. You can get the Species that were into the movies and filter by species the characters.
 
 ## Getting Started
 
@@ -22,26 +23,43 @@ https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windo
 
 ### Installing
 
-Once you have your your pip installed and the virtualenv running you can go ahead and just execute the folloing command:
-pip install -r requirements.txt
+Once you have your your pip installed and the virtualenv running you can go ahead and just execute the following command:
 
-ALso you need to install the frontend packages:
-cd /swapi-react/swapi/frontend
-npm install 
+```pip install -r requirements.txt```
 
-After all the dependencies are installed in order to run the project you should execute:
-navigate to /swapi-react/swapi directory
-run 
-python manage.py runserver
+Also you need to install the frontend packages: 
 
-In a different terminal navigate to /swapi-react/swapi/frontend
-run 
-npm run start
+navigate to:
+
+```/swapi-react/swapi/frontend```
+
+and then
+
+```npm install```
+
+After all the dependencies are installed in order to run the project you should execute the folloing steps:
+
+
+navigate to:
+
+``` /swapi-react/swapi``` 
+
+run the following command:
+
+```python manage.py runserver```
+
+In a different terminal navigate to 
+
+```/swapi-react/swapi/frontend```
+
+and then run the following command: 
+
+```npm run start```
 
 ## Built With
 
-* [Django](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [React](https://maven.apache.org/) - Dependency Management
+* [Django](https://www.djangoproject.com/)
+* [React](https://reactjs.org/)
 
 
 
